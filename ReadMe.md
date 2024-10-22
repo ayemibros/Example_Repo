@@ -4,4 +4,4 @@
 2. Learn Github
 3. Learn how to create apps
 4. Learn How to deploy the apps that you have created.
-5. Create user manual to assist users
+5. Create user manual to assist those using the system
